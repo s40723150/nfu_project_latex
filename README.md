@@ -1,0 +1,1 @@
+# nfu_project_latex
